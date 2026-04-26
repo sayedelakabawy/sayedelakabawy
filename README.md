@@ -3,18 +3,18 @@
 <p align="center">
   💻 Computer Science Student @ Cairo University <br/>
   🚀 Passionate about Backend Development, Web Development & Problem Solving <br/>
-  🧠 Always learning and building
+  🧠 Always learning and building real-world projects
 </p>
 
 ---
 
 <h2>🧑‍💻 About Me</h2>
 
-- 🎓 Student at FCAI, Cairo University  
-- 🧠 Enthusiastic about Problem Solving  
-- 💻 Interested in Web Development & Backend  
-- 📚 Always learning, always building  
-- 🤝 Open to collaborations & opportunities  
+- 🎓 Studying Computer Science - Cairo University (FCI)
+- 🌐 Interested in Web Development (Frontend + Backend)
+- ⚙️ Focused on Backend (Django / APIs / Databases)
+- 🧩 Problem Solving enthusiast (C++ & Competitive Programming)
+- 📚 Always improving my skills in Software Engineering
 
 ---
 
@@ -29,36 +29,43 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 </p>
 
 ---
 
 <h2>📊 GitHub Stats</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=eyadma7moud&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.herokuapp.com/?user=eyadma7moud&theme=one_dark_pro&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eyadma7moud&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sayedelakabawy&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayedelakabawy&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedelakabawy&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-<h2>🏆 GitHub Trophies</h2>
+<h2>📈 Activity</h2>
 
-![](https://github-profile-trophy.vercel.app/?username=eyadma7moud&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-<h2>✍️ Random Dev Quote</h2>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayedelakabawy&theme=tokyonight" />
+</p>
 
 ---
 
-<h2>🔝 Top Contributed Repo</h2>
+<h2>📫 Contact Me</h2>
 
-![](https://github-contributor-stats.vercel.app/api?username=eyadma7moud&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+- GitHub: [sayedelakabawy](https://github.com/sayedelakabawy)
+- Always open to collaboration & learning opportunities 🚀
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=eyadma7moud&icon=1&color=1"/>
+  ⭐ Thanks for visiting my profile!
 </p>
